@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3e15d1e-0be7-4522-a569-822e5cdbab36" name="Changes" comment="&quot;javacontrolflow&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingElements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EarthVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeeDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeeDiscountInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeetToYardsMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HarryAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeightConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KmToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KmToMilesInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxHandshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PensDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SamAverageMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalPurchasePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anu-dwivedi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anu-dwivedi/BridgeLab3Y.git",
+    "accountId": "f56d0adc-6d68-4437-837f-a269c4662202"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="31XNjUZGOY6C4xibd7DbwjLzvTk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/dubey/IdeaProjects/JavaControlFlow/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3e15d1e-0be7-4522-a569-822e5cdbab36" name="Changes" comment="" />
+      <created>1755666595157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755666595157</updated>
+      <workItem from="1755666596700" duration="1644000" />
+    </task>
+    <task id="LOCAL-00001" summary="&quot;javacontrolflow&quot;">
+      <option name="closed" value="true" />
+      <created>1755667808017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755667808017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;javacontrolflow&quot;">
+      <option name="closed" value="true" />
+      <created>1755667950467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755667950467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;javacontrolflo&quot;" />
+    <MESSAGE value="prgms" />
+    <MESSAGE value="&quot;javacontrolflow&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;javacontrolflow&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

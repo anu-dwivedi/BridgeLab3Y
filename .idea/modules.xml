@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/FirstAssignment.iml" filepath="$PROJECT_DIR$/FirstAssignment.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/JavaControlFlow.iml" filepath="$PROJECT_DIR$/JavaControlFlow.iml" />
+>>>>>>> 8329372c4aa8033637d10ee2862951b5fda86bf8
     </modules>
   </component>
 </project>
