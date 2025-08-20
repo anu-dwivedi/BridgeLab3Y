@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3e15d1e-0be7-4522-a569-822e5cdbab36" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b3e15d1e-0be7-4522-a569-822e5cdbab36" name="Changes" comment="&quot;javacontrolflow&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProgrammingElements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EarthVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeeDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeeDiscountInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FeetToYardsMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HarryAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeightConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KmToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KmToMilesInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaxHandshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PensDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProfitLoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SamAverageMark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TotalPurchasePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TriangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +65,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -73,8 +91,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755666595157</updated>
-      <workItem from="1755666596700" duration="1163000" />
+      <workItem from="1755666596700" duration="1644000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;javacontrolflow&quot;">
+      <option name="closed" value="true" />
+      <created>1755667808017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755667808017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;javacontrolflow&quot;">
+      <option name="closed" value="true" />
+      <created>1755667950467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755667950467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +157,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;javacontrolflo&quot;" />
+    <MESSAGE value="prgms" />
+    <MESSAGE value="&quot;javacontrolflow&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;javacontrolflow&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
